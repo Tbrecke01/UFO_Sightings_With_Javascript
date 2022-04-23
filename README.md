@@ -16,4 +16,4 @@ Users must be careful to use lowercase with no additional spaces and exact dates
 ## Summary and Limitations
 As mentioned previously, one major drawback is that the filter currently needs exact matches to work. This means that using uppercase or additional spaces will cause the filter to incorrectly display no matches. To address this, updating the filter to use close matches rather than exact is recommended. 
     
-Another area of improvement would be to add date ranges to the filter bar and to add suggested auto-completes to the filter searches (ie for the city of 'Fresno' typing in 'Fr' will cause 'Fresno' to autopupulate). This would massively increase the filters ease of use.
+Another area of improvement would be to add date ranges to the filter bar and to add suggested auto-completes to the filter searches (ie for the city of 'Fresno' typing in 'Fr' will cause 'Fresno' to autopupulate). This would massively increase the table's ease of use.
