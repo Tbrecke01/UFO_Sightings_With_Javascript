@@ -7,8 +7,10 @@ The purpose of this project is to create a dynamic website using Javascript to t
 
 ### Website Overview
 ![Website Search](https://github.com/Tbrecke01/UFO_Sightings_With_Javascript/blob/main/website_search.png)
+
 This is the filter bar used for the table on the website. Users can input whatever filters they wish (there are some examples within the search, as shown above), press 'Enter' and the table to the right will update as needed, like so:
 ![Website Filters](https://github.com/Tbrecke01/UFO_Sightings_With_Javascript/blob/main/website_filters.png)
+
 Users must be careful to use lowercase with no additional spaces and exact dates/text is also needed.
   
 ## Summary and Limitations
